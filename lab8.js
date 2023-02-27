@@ -2,7 +2,7 @@
 
 window.onload = initBannerLink;
 var theAd = 0;
-var adURL = new Array("cnn.com","zeetv.com","microsoft.com","ndtv.com","hindustantimes.com","starplus.com")
+var adURL = new Array("cnn.com","bloomeberg.com","microsoft.com","Fox.com","nytimes.com/","theguardian.com/us")
 var adImages = new Array("Lab 8 Image 1.jpeg","Lab 8 Image 2.jpeg","Lab 8 Image 3.jpeg","Lab 8 Image 4.jpeg","Lab 8 Image 5.jpeg","Lab 8 Image 6.jpeg");
 function initBannerLink() {
     if (document.getElementById("adBanner").parentNode.tagName == "A")
